@@ -1,29 +1,91 @@
 #EXTM3U
-#EXTINF:-1,Discovery
-http://78.157.230.19/streaming/discovery/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://178.124.183.150/hls/CH_DISCOVERY_HLS/bw1200000/playlist.m3u8
-#EXTINF:-1,Discovery Channel
-http://213.174.8.7:8000/play/24/index.m3u8
-#EXTINF:-1,54-Discovery Channel
-http://109.233.192.88:8005/play/54/index.m3u8
-#EXTINF:-1,Discovery Science
-http://109.233.192.88:8005/play/51/index.m3u8
-#EXTINF:-1,National Geographic
-http://178.124.183.5/hls/CH_NATGEO/variant.m3u8?version=2
-#EXTINF:-1,National Geographic HD
-http://185.176.117.243/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,National Geographic HD
-http://88.119.220.2/live/eds/NatGeoHD/HLS_encr/NatGeoHD.m3u8
-#EXTINF:-1,Nat Geo Wild
-http://178.124.183.5/hls/ESCMSBZJ8X/variant.m3u8?version=2
-#EXTINF:-1,ID Xtra
-http://109.233.192.88:8005/play/53/index.m3u8
-#EXTINF:-1,DTX
-http://78.157.230.19/streaming/discoveryworld/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,DTX
-http://109.233.192.88:8005/play/52/index.m3u8
-#EXTINF:-1,Animal Planet
-http://78.157.230.19/streaming/animalplanet/364/gpu_tvrecw/playlist.m3u8
-#EXTINF:-1,Animal Planet
-http://109.233.192.88:8005/play/50/index.m3u8
+#EXTINF:-1,BR: Jovem Pan TV FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99532.m3u8
+#EXTINF:-1,BR: KPOP TV HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99533.m3u8
+#EXTINF:-1,BR: Music Box Brasil
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99534.m3u8
+#EXTINF:-1,BR: Film&Arts
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99535.m3u8
+#EXTINF:-1,One Music TV HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99536.m3u8
+#EXTINF:-1,BR: Top Songs Music
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99537.m3u8
+#EXTINF:-1,BR: Chef TV HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99538.m3u8
+#EXTINF:-1,BR: Arte1 FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99539.m3u8
+#EXTINF:-1,BR: TV Beltrão HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99540.m3u8
+#EXTINF:-1,BR: TV Serra Verde
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99541.m3u8
+#EXTINF:-1,BR: TV Itapetininga FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99542.m3u8
+#EXTINF:-1,BR: STF TV
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99543.m3u8
+#EXTINF:-1,BR: Via Morena HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99544.m3u8
+#EXTINF:-1,BR: Rede TV Gospel BR FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99545.m3u8
+#EXTINF:-1,BR: FLA TV[somente quando há evento]
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99546.m3u8
+#EXTINF:-1,BR: TV Manchete
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99547.m3u8
+#EXTINF:-1,BR:  BR: A&E FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99548.m3u8
+#EXTINF:-1,BR:  BR: A&E HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99549.m3u8
+#EXTINF:-1,BR: A Fazenda HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99550.m3u8
+#EXTINF:-1,BR: A Fazenda SD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99551.m3u8
+#EXTINF:-1,BR: A Pantera Cor de Rosa 24 Horas
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99552.m3u8
+#EXTINF:-1,BR: A&E SD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99553.m3u8
+#EXTINF:-1,BR: AMC FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99554.m3u8
+#EXTINF:-1,BR: AMC HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99555.m3u8
+#EXTINF:-1,BR: AMC SD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99556.m3u8
+#EXTINF:-1,BR: Animal Planet FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99557.m3u8
+#EXTINF:-1,BR: Animal Planet HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99558.m3u8
+#EXTINF:-1,BR: Animal Planet SD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99559.m3u8
+#EXTINF:-1,BR: Arqueiro Verde 24 Horas
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99560.m3u8
+#EXTINF:-1,BR: Arte 1 FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99561.m3u8
+#EXTINF:-1,BR: Arte 1 HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99562.m3u8
+#EXTINF:-1,BR: Arte 1 SD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99563.m3u8
+#EXTINF:-1,BR: As Aventuras De Jackie Chan 24 Horas
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99564.m3u8
+#EXTINF:-1,BR: AS MENINAS SUPER PODEROSAS 24 HORAS
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99565.m3u8
+#EXTINF:-1,BR: AS VISÕES DA RAVEN 24 HORAS
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99566.m3u8
+#EXTINF:-1,BR: AUTHENTIC GAMES 24 HORAS
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99567.m3u8
+#EXTINF:-1,BR: Avatar A Lenda de Aang 24 Horas
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99568.m3u8
+#EXTINF:-1,BR: AXN FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99569.m3u8
+#EXTINF:-1,BR: AXN HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99570.m3u8
+#EXTINF:-1,BR: AXN SD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99571.m3u8
+#EXTINF:-1,BR: Baby FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99572.m3u8
+#EXTINF:-1,BR: Baby HD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99573.m3u8
+#EXTINF:-1,BR: Baby TV SD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99574.m3u8
+#EXTINF:-1,BR: BACKARDIGANS 24 HORAS
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99575.m3u8
+#EXTINF:-1,BR: Band FHD
+http://ariaccess.com:80/live/ArisGladio/PartnerGladio/99576.m3u8
